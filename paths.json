@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/xwalkeds/:/"
+  ],
+  "includes": [
+    "/content/xwalkeds/"
+  ]
+}
